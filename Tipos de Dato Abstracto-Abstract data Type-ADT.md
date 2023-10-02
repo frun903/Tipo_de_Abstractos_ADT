@@ -1,4 +1,3 @@
-
 ## Introducción a las estructuras de Datos
 
 Recordemos que la información se guarda en bits, 1 bit puede tener 2 posiciones 0-1, 8 bits son equivalentes a 1 byte. Por me dio de una cadena de bits o bytes por _convención_ puedo pasarlos a decimal o octal o hexadecimal.  Lo importante en este apartado es la palabra _convención donde un grupo de personas cuando la computación fue creciendo se pusieron de acuerdo en reglas para fomentar la retro compatibilidad entre tecnologías_.  

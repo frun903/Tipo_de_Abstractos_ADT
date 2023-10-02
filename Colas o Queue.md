@@ -90,3 +90,6 @@ En aBorrar guardo el viejo tope, luego en el tope=tope->getSiguiente(); cambio e
 se if ( 1 ) hace referencia a cuando el tope apunte a vacio que quite todos los elementos por lo tanto el fondo tambien esta vacia 
 
 El final borro el aBorrar y retorno el dato. 
+
+
+[[Colas de Prioridad]] 

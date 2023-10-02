@@ -1,3 +1,4 @@
+
 Primero debemos crear nuestro nodo que sera luego el que se va enlazar. El nodo tendrá un valor y una relación con los siguientes  y anteriores nodos por medio de punteros.
 Luego debere hacer el construcutor de mi nodo
 

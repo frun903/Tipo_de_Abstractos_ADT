@@ -1,3 +1,4 @@
+
 Comenzando por lo mas simple tengo mi nodo que contendrá mi dato y una referencia al nodo siguiente en forma de puntero.
 
 ```cpp
@@ -9,7 +10,7 @@ class Nodo{
 
 ```
 
-Para el nodo tendre sus SET que seran para establecer el dato por ende ingresaremos variables por teclado y sus Get para obtener el dato
+Para el nodo tendré sus SET que serán para establecer el dato por ende ingresaremos variables por teclado y sus Get para obtener el dato
 
 ```cpp
     public:
@@ -204,3 +205,12 @@ template <class T> void Lista<T>::reemplazar(int pos, T dato) {
   aux->setDato( dato );
 }
 ```
+
+
+## Métodos Con Listas Simplemente Enlazadas
+
+- [[Dar vuelta una lista Simplemente Enlazada]]
+- [[Metodo OddList]]
+- [[Metodo HasCycle y 2 Punteros]]
+- [[Metodo ReorderList]] 
+- [[Mas Métodos con punteros y listas]] 

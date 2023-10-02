@@ -1,3 +1,4 @@
+#ADT #LinkedList
 ## Definición y Estructura 
 Las listas enlazadas o ligadas son estructuras compuestas por 2 partes, una mantiene a la información (un valor de un tipo de dato) y la otra apunta (por medio de un puntero) al siguiente nodo de la lista enlazada. Un nodo sera la composición de las dos partes antes mencionadas.  
 
